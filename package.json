@@ -1,0 +1,19 @@
+{
+  "name": "lesson5_vitalii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vetall4444/lesson_5-homework.git"
+  },
+  "author": "Vitalii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vetall4444/lesson_5-homework/issues"
+  },
+  "homepage": "https://github.com/vetall4444/lesson_5-homework#readme"
+}
